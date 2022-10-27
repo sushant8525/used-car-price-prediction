@@ -1,6 +1,9 @@
 numpy
 pandas
+<<<<<<< HEAD
 pydantic
+=======
+>>>>>>> 3afe24b65c85d9b8cff3f57efe9a8fb98a887b05
 pycaret
 fastapi
 uvicorn
