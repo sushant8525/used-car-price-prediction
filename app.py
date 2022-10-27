@@ -8,7 +8,6 @@ from pydantic import create_model
 from fastapi import Depends
 
 
-
 # Create the app
 app = FastAPI()
 
