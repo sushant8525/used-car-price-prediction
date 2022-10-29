@@ -66,7 +66,7 @@ Price - The price of the car (target).
   
 <h2> :book: Depoyment on Heroku</h2>
 
-[![](https://github.com/sushant8525/used-car-price-prediction/blob/10e2754c49f994b17ad5752359d96dd2b37a929c/images/car.png)](https://used-car-price-predictio.herokuapp.com/docs#/default/predict_predict_post
+[![](https://github.com/sushant8525/used-car-price-prediction/blob/4242500f1d0aeb89fa3391eb533d5d19c82c08b3/images/car.png)](https://used-car-price-predictio.herokuapp.com/docs#/default/predict_predict_post
 )
 
 https://used-car-price-predictio.herokuapp.com/docs#/default/predict_predict_post
