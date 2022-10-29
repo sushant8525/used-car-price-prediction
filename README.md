@@ -1,12 +1,12 @@
-used-car-price-prediction
 <p align="center"> 
   <img src="images/2.jfif" alt="2.jfif" width="100px" height="100px">
 <h1 align="center"> used-car-price-prediction  </h1> 
-<h3 align="center"> Feynn Labs Verfied Project 
+
      
 <p align="center"> 
-<img src="images/all.jpg" alt="all.jpg" height="382px">
+<img src="images/all.jpeg" alt="all.jpeg" height="382px">
 </p>
+<h3 align="center"> Feynn Labs Verfied Project 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -27,8 +27,7 @@ prices of different makes and models .
 a process where a seller decides a price
 randomly and buyer has no idea about the car and it’s value in
 the present day scenario. In fact, seller also has no idea about
-the car’s existing value or the price he should be selling the car
-at
+the car’s existing value.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -67,21 +66,23 @@ Price - The price of the car (target).
   
 <h2> :book: Depoyment on Heroku</h2>
 
-[![](https://i.imgur.com/4HjhfDQ.png)](https://used-car-price-predictio.herokuapp.com/docs#/default/predict_predict_post
+[![](https://github.com/sushant8525/used-car-price-prediction/blob/10e2754c49f994b17ad5752359d96dd2b37a929c/images/1.png)](https://used-car-price-predictio.herokuapp.com/docs#/default/predict_predict_post
 )
+
+https://used-car-price-predictio.herokuapp.com/docs#/default/predict_predict_post
 
 for localhost :- http://127.0.0.1:8000/docs#/default/predict_predict_post
 
-"Fuel_Type":-'Diesel':1,'Petrol':2,'CNG':3,'LPG':4,'Electric':5
+"Fuel_Type":- 'Diesel':1  , 'Petrol':2,  'CNG':3,   'LPG':4,   'Electric':5
 
-"Transmission":-'Manual':1,'Automatic':2
+"Transmission":-'Manual':1,    'Automatic':2
 
-"Owner_Type":-'First':1,'Second':2,'Third':3,'Fourth & Above':4
+"Owner_Type":-'First':1,   'Second':2,    'Third':3,    'Fourth & Above':4
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
- <h2> :book:Conclusion</h2>
+<h2> :book:Conclusion</h2>
 The increased prices of new cars and the financial
 incapability of the customers to buy them, Used Car sales are
 on a global increase. Therefore, there is an urgent need for a
